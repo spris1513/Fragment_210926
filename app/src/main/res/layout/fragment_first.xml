@@ -11,6 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="프레그먼트에서 로그 찍기"
-        android:id="@+id/logBtn"
+        android:id="@+id/logBtn"/>
 
 </LinearLayout>
