@@ -13,5 +13,11 @@
         android:layout_height="250dp"
         class="com.example.fragment_210926.fragments.FirstFragment" />
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        class="com.example.fragment_210926.fragments.SecondFragment"
+        android:id="@+id/secondFrag" />
+
 
 </LinearLayout>
