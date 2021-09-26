@@ -7,5 +7,11 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <fragment
+        android:id="@+id/firstFrag"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        class="com.example.fragment_210926.fragments.FirstFragment" />
+
 
 </LinearLayout>
